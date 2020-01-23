@@ -53,5 +53,4 @@ def total_gross(source)
     director_index += 1
   end
 total_gross_of_earnings
-
-
+end
